@@ -1,3 +1,5 @@
-# Headline
+# 前言
 
-> An awesome project.
+　　這裡收集的資料庫，主要來自香港高等院校和公共圖書館的資料庫清單。
+
+> 製作：[殷果@考古不語](https://inarchaeology.github.io)
