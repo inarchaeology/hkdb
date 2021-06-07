@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-* **[前言](/)**
+* [**前言**](/)
 * **綜合**
   * [萬方地方志數據知識服務系統](/general/wang-fang-local-record.md)
   * [中國大陸各省地方志書目查詢系統](/general/local-record-place.md)
