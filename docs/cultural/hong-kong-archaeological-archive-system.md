@@ -1,6 +1,6 @@
 # 香港考古資料系統
 
-！[](https://hkaas.amo.gov.hk/hkaas/filemanager/template/tc/images/index_logo.png)
+![](https://hkaas.amo.gov.hk/hkaas/filemanager/template/tc/images/index_logo.png)
 
 ## 簡介
 
