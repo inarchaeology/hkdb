@@ -16,7 +16,7 @@
 
 ## 聯絡方式
 
-> 網址：<https://www.amo.gov.hk>  
+> 主頁：<https://www.amo.gov.hk>  
 > 電郵：<enquiry@amo.gov.hk>  
 > 電話：2208 4400  
 > 傳真：2721 6216  
