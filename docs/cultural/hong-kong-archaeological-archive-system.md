@@ -1,5 +1,7 @@
 # 香港考古資料系統
 
+！[](https://hkaas.amo.gov.hk/hkaas/filemanager/template/tc/images/index_logo.png)
+
 ## 簡介
 
 　　「香港考古資料系統」收錄香港考古出土的文物資料，初步估算有130,000多項器物信息。【[按此查閲](https://hkaas.amo.gov.hk/hkaas/main.jsp?lang=2 "香港考古資料系統")】
