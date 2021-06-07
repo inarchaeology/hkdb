@@ -13,8 +13,6 @@
 - 關燈散花科
 - 三元宮傳統經韻
 
-<iframe src="https://player.vimeo.com/video/263619118?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
 ## 聯絡方式
 > 主頁：<https://www.daoistmusichk.org/zh-hant>  
 > 電郵：<daoistmusichk@fysk.org>  
