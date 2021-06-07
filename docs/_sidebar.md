@@ -15,5 +15,6 @@
   * [香港文物探知館參考圖書館](/cultural/hong-kong-heritage-discovery-centre-reference-library.md)
   * [中國祭祀演劇相關照片資料數據庫](/cultural/chinese-ritual-related-photo-database.md)
   * [盧瑋鸞教授所藏香港文學檔案](/cultural/xiaosi-hong-kong-literature-archive.md)
+  * [香港全真道堂科儀音樂電子數據庫](/cultural/hong-kong-quanzhen-temples-taoist-ritual-music.md)
 * **政治**
   * [立法會檔案館](/political/legco-archives.md)
