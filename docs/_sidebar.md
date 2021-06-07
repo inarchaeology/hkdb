@@ -12,5 +12,6 @@
   * [工商業圖書館](/economic/business-and-industry-library.md)
 * **文化**
   * [香港考古資料系統](/cultural/hong-kong-archaeological-archive-system.md)
+  * [中國祭祀演劇相關照片資料數據庫](/cultural/chinese-ritual-related-photo-database.md)
 * **政治**
   * [立法會檔案館](/political/legco-archives.md)
