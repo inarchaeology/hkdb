@@ -5,7 +5,7 @@
   * [中國大陸各省地方志書目查詢系統](/general/local-record-place.md)
   * [香港政府檔案處](/general/government-records-service.md)
 * 自然
-  * [香港植物資料庫](/natrual/hong-kong-plant-database.md)
+  * [香港植物資料庫](/natural/hong-kong-plant-database.md)
 * 社會
   * [香港鄉村生活特藏](/social/hong-kong-village-life-collection.md)
 * 經濟
