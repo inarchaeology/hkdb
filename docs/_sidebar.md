@@ -1,7 +1,16 @@
 <!-- docs/_sidebar.md -->
 * [前言](/)
-* [自然](/natural/)
-* [社會](/social/)
-* [經濟](/economic/)
-* [文化](/cultural/)
-* [政治](/political/)
+* 綜合
+  * [萬方地方志數據知識服務系統](/general/wang-fang-local-record.md)
+  * [中國大陸各省地方志書目查詢系統](/general/local-record-place.md)
+  * [香港政府檔案處](/general/government-records-service.md)
+* 自然
+  * [香港植物資料庫](/natrual/hong-kong-plant-database.md)
+* 社會
+  * [香港鄉村生活特藏](/social/hong-kong-village-life-collection.md)
+* 經濟
+  * [工商業圖書館](/economic/business-and-industry-library.md)
+* 文化
+  * [香港考古資料系統](/cultural/hong-kong-archaeological-archives-system.md)
+* 政治
+  * [立法會檔案館](/political/legco-archives.md)
