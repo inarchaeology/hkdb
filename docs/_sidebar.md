@@ -5,7 +5,7 @@
   * [中國大陸各省地方志書目查詢系統](/general/local-record-place.md)
   * [香港政府檔案處](/general/government-records-service.md)
   * [英國國家檔案館](/general/the-national-archives.md)
-  * [Hong Kong Government Reports Online](/general/hong-kong-government-reports-online.md)
+  * [Hong Kong Government Reports](/general/hong-kong-government-reports-online.md)
   * [Index to CO 129](/general/index-to-co129.md)
   * [香港舊報紙](/general/old-hk-collection.md)
   * [South China Morning Post](/general/scmp.md)
