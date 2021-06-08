@@ -8,6 +8,7 @@
   * [Index to CO 129](/general/index-to-co129.md)
   * [香港舊報紙](/general/old-hk-collection.md)
   * [South China Morning Post](/general/scmp.md)
+  * [Chinese Newspapers Collection](/general/chinese-newspapers-collection.md)
   * [香港口述歷史檔案庫](/general/hong-kong-oral-history-collective-memories.md)
 * **自然**
   * [香港植物資料庫](/natural/hong-kong-plant-database.md)
