@@ -12,7 +12,7 @@
 
 ## 聯絡方式
 > 主頁：<https://sociology.hku.hk/>  
-> 電郵：<specol@lib.hku.hk>
+> 電郵：<specol@lib.hku.hk>  
 > 電話：2859 2207  
 > 傳真：2857 2048  
 > 地址：香港大學孔安道圖書館
