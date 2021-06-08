@@ -56,6 +56,7 @@ body {
   -webkit-font-smoothing: antialiased;
   color: #111111;
   font-family: 'Noto Serif TC';
+  text-align: justify;
   font-size: 18px;
   letter-spacing: 0;
   margin: 0;
@@ -193,10 +194,11 @@ main.hidden {
 .anchor {
   display: inline-block;
   text-decoration: none;
+  text-align: left;
   transition: all 0.3s;
 }
 .anchor span {
-  color: #34495e;
+  color: #000000;
 }
 .anchor:hover {
   text-decoration: underline;
@@ -599,7 +601,7 @@ body {
   margin: 6px 0 6px 0;
 }
 .sidebar ul li a {
-  color: #1a1a1a;
+  color: #0e0e0e;
   font-size: 16px;
   font-weight: normal;
   overflow: hidden;
@@ -637,19 +639,19 @@ body {
   font-weight: 600;
 }
 .markdown-section h1 {
-  font-size: 2rem;
+  font-size: 1.75rem;
   margin: 0 0 1rem;
 }
 .markdown-section h2 {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   margin: 45px 0 0.8rem;
 }
 .markdown-section h3 {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   margin: 40px 0 0.6rem;
 }
 .markdown-section h4 {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 .markdown-section h5 {
   font-size: 1rem;
@@ -674,8 +676,9 @@ body {
 }
 .markdown-section blockquote {
   border-left: 4px solid var(--theme-color, #42b983);
-  color: #222222;
+  color: #202020;
   margin: 2em 0;
+  text-align: left;
   padding-left: 20px;
 }
 .markdown-section blockquote p {
