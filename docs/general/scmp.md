@@ -1,6 +1,6 @@
 # ProQuest Historical Newspapers: South China Morning Post
 ## 簡介
-　　香港大學圖書館訂閲了ProQuest公司的歷史報章資料庫，可查閲南華早報（South China Morning Post，簡稱SCMP）1903年至2001年之間的新聞報導，估算有500多萬項資料。【[按此查閲](www-proquest-com.eproxy.lib.hku.hk/hnpsouthchinamorningpost/databases?accountid=14548)，須港大賬號】
+　　香港大學圖書館訂閲了ProQuest公司的歷史報章資料庫，可查閲南華早報（South China Morning Post，簡稱SCMP）1903年至2001年之間的新聞報導，估算有500多萬項資料。【[按此查閲](www-proquest-com.eproxy.lib.hku.hk/hnpsouthchinamorningpost/databases?accountid=14548 "South China Morning Post")，須港大賬號】
 
 　　SCMP資料庫内包含8份南華早報相關報章，依創辦年份列舉如下：
 - *South China Morning Post*（1903-1941）
