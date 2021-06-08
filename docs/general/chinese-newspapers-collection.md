@@ -1,6 +1,6 @@
 # ProQuest Historical Newspapers: Chinese Newspapers Collection
 ## 簡介
-　　香港大學圖書館訂閲了ProQuest公司的歷史報章資料庫，可查閲近代中國新聞報章。【[按此查閱](https://www-proquest-com.eproxy.lib.hku.hk/hnpchinesecollection/news/fromDatabasesLayer/index) "Chinese Newspapers Collection"】
+　　香港大學圖書館訂閲了ProQuest公司的歷史報章資料庫，可查閲近代中國新聞報章。【[按此查閱](https://www-proquest-com.eproxy.lib.hku.hk/hnpchinesecollection/news/fromDatabasesLayer/index "Chinese Newspapers Collection")】
   
 　　該資料庫内包含22份報章的報導，依創辦年份及英文標題首字母列舉如下： 
 - 《中國叢報》（*Chinese Repository*, 1832-1851）
