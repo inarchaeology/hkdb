@@ -5,6 +5,7 @@
   * [中國大陸各省地方志書目查詢系統](/general/local-record-place.md)
   * [香港政府檔案處](/general/government-records-service.md)
   * [英國國家檔案館](/general/the-national-archives.md)
+  * [香港口述歷史檔案庫](/general/hong-kong-oral-history-collective-memories.md)
 * **自然**
   * [香港植物資料庫](/natural/hong-kong-plant-database.md)
 * **社會**
