@@ -26,6 +26,6 @@
 > 主頁：<https://www.nationalarchives.gov.uk>  
 > 地址：The National Archives Kew, Richmond TW9 4DU
 
-!> 開放時間（英國時間）：  
+!> 開放時間（GMT+1）：  
 星期二至六：上午9時30分至下午3時30分  
 星期日至一：休館
