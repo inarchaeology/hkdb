@@ -2,12 +2,12 @@
 ## 簡介
 　　香港大學圖書館藏約24,000張相片，這些相片由FormAsia Books常務董事Frank Fischbeck擁有，載錄香港自1860年代至1990年代的歷史時刻。
 
-　　2020年舉辦網上「Frank Fischbeck 香港歷史照片珍藏」展覽，展示6個主題的珍藏集相片。【[按此瀏覽](https://www.hku.hk/press/c_news_detail_22159.html "Frank Fischbeck 香港歷史照片珍藏")】
+　　2020年舉辦網上「Frank Fischbeck 香港歷史照片珍藏」展覽，展示6個主題的珍藏集相片。【[按此瀏覽](https://www.ffchk2020.hku.hk "Frank Fischbeck 香港歷史照片珍藏")】
 
 　　港大圖書館目前已數碼化3776張相片，並設立「Frank Fischbeck 珍藏集」，開放瀏覽，無需登入賬號。
 
 　　相片内容包括人物、建築、海報、藝術、宗教、政治、城市景觀、航空圖、全景圖等，根據主題分以下15個子集：
-  
+
 - Hong Kong: The Classic Age
 - Hong Kong Architecture
 - Hong Kong Handover 1997
@@ -28,4 +28,5 @@
 
 ## 聯絡方式
 > 主頁：<https://digitalrepository.lib.hku.hk>  
+> 電郵：<friends@lib.hku.hk>（香港大學公共關係與發展團隊）  
 > 電話：3917 2203
