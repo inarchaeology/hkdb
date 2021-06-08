@@ -4,4 +4,4 @@
   
 　　持續更新。
 
-> 製作：HKCPC0013、B. Sung
+> 製作：B. Sung、HKCPC0013
