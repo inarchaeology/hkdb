@@ -31,7 +31,7 @@
 
 ## 專題教學資源庫
 
-　　此外，政府檔案處專設教學資源庫，輯錄部分館藏檔案和參考書籍，設計成17個專題内容。專題細項如下：【[按此查閲](https://www.grs.gov.hk/ws/erp/tc/lessons_and_plans/topical_guides.html "檔案處專題細項")】
+　　此外，政府檔案處專設教學資源庫，輯錄部分館藏檔案和參考書籍，設計成17個專題内容。專題細項如下：【[按此查閱](https://www.grs.gov.hk/ws/erp/tc/lessons_and_plans/topical_guides.html "檔案處專題細項")】
 
 - 建築物（1項）
 - 通訊（1項）
