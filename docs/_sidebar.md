@@ -11,6 +11,7 @@
   * [South China Morning Post](/general/scmp.md)
   * [Chinese Newspapers Collection](/general/chinese-newspapers-collection.md)
   * [香港口述歷史檔案庫](/general/hong-kong-oral-history-collective-memories.md)
+  * [Frank Fischbeck珍藏集](/general/frank-fischbeck-collection.md)
 * **自然**
   * [香港植物資料庫](/natural/hong-kong-plant-database.md)
 * **社會**
