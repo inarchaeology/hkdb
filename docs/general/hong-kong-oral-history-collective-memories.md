@@ -11,5 +11,5 @@
 - 專題
 
 ## 聯絡方式
-> 主頁：<https://sociology.hku.hk/>
+> 主頁：<https://sociology.hku.hk/>  
 > 電郵：<libspeco@hku.hk>
