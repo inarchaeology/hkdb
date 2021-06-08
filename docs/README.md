@@ -4,4 +4,4 @@
   
 　　持續更新。
 
-> 製作：B. Seung、HKCPC0013
+> 製作：P.M. Seung、HKCPC0013
